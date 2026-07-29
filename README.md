@@ -1,10 +1,5 @@
 # Mohammed-walid
-<br>
 
-📈 GitHub Stats
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-walid&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ### 📜 Certifications
 
 * **IBM Python for Data Science, AI & Development**  
