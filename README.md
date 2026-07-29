@@ -1,5 +1,5 @@
 # Mohammed-walid
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-walid&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ### 📜 Certifications
 
 * **IBM Python for Data Science, AI & Development**  
