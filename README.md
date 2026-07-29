@@ -16,12 +16,6 @@
 
 <br>
 
-### 🛠️ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-<br>
-
 ### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohammed-walid&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
