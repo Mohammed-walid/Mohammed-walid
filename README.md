@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-walid&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://raw.githubusercontent.com/Mohammed-walid/Mohammed-walid/main/github-metrics.svg)
+
