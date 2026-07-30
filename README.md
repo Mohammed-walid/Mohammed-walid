@@ -14,4 +14,5 @@
 * **Artificial Intelligence Essentials V2**  
   [![Verify Credential](https://img.shields.io/badge/IBM-Verify_Credential-052125?style=flat-square&logo=ibm)](https://www.credly.com/badges/ee6d05d5-7308-4b1f-beb4-6a5e10ecfca3/public_url)
 
-
+* **[Python Project for AI and Application Development]**  
+  [![Verify Credential](https://img.shields.io/badge/IBM-Verify_Credential-052125?style=flat-square&logo=ibm)](https://www.credly.com/badges/d0bf7ff3-c434-47ee-8b70-df6ae1b002a9/public_url)
