@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35289387/README.md)
 # Mohammed-walid
 
 ### Computer & Communication Engineering Student | AI Minor | Aspiring AI Engineer
