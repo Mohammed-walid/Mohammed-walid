@@ -11,12 +11,8 @@ I'm continuously strengthening my programming and engineering foundations while 
 ---
 
 ### 👨‍💻 About Me
-
--  Computer and Communication Engineering student.
--  Minor in Artificial Intelligence.
 -  Interested in Machine Learning, Deep Learning, and Generative AI.
 -  Particularly interested in Large Language Models and neural network architectures.
-
 
 ### 📜 Certifications
 
