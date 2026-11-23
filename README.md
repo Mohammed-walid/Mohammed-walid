@@ -13,37 +13,11 @@ I'm continuously strengthening my programming and engineering foundations while 
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer and Communication Engineering student.
-- 🤖 Minor in Artificial Intelligence.
-- 🧠 Interested in Machine Learning, Deep Learning, and Generative AI.
-- 🔬 Particularly interested in Large Language Models and neural network architectures.
-- 💻 Enjoy programming, problem-solving, and understanding how technologies work under the hood.
+-  Computer and Communication Engineering student.
+-  Minor in Artificial Intelligence.
+-  Interested in Machine Learning, Deep Learning, and Generative AI.
+-  Particularly interested in Large Language Models and neural network architectures.
 
-### 🛠️ Technical Skills
-
-**Programming Languages**
-
-Python · Java · C · MATLAB · Assembly
-
-**Data Science & Machine Learning**
-
-Pandas · NumPy · Scikit-learn
-
-**Tools & Technologies**
-
-Git · GitHub · Jupyter Notebook
-
-### 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Neural Networks
-
----
 
 ### 📜 Certifications
 
